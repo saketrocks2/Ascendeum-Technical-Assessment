@@ -1,4 +1,4 @@
-# Ascendeum Technical Assessment - Round 1: Matrix Generation
+# Ascendeum Technical Assessment - Round 1: Matrix Generation + Round 2
 
 This repository contains the Python implementation for the matrix pattern generation assessment.
 
